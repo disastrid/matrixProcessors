@@ -1,0 +1,1002 @@
+[
+{
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"remote"
+},
+
+{
+	"group":1,
+	"error_P1":1,
+	"error_P2":2,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":48,
+	"good_P2":14,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"whyCorn"
+},
+
+{
+	"group":1,
+	"error_P1":2,
+	"error_P2":12,
+	"error_P3":3,
+	"error_P4":9,
+	"good_P1":17,
+	"good_P2":15,
+	"good_P3":10,
+	"good_P4":18,
+	"ident":"shopForget"
+},
+
+{
+	"group":2,
+	"error_P1":1,
+	"error_P2":4,
+	"error_P3":3,
+	"error_P4":2,
+	"good_P1":4,
+	"good_P2":4,
+	"good_P3":5,
+	"good_P4":12,
+	"ident":"fastHay"
+},
+
+{
+	"group":2,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"herselfRelated"
+},
+
+{
+	"group":2,
+	"error_P1":2,
+	"error_P2":10,
+	"error_P3":10,
+	"error_P4":22,
+	"good_P1":23,
+	"good_P2":7,
+	"good_P3":25,
+	"good_P4":7,
+	"ident":"planeTaught"
+},
+
+{
+	"group":2,
+	"error_P1":1,
+	"error_P2":1,
+	"error_P3":6,
+	"error_P4":8,
+	"good_P1":10,
+	"good_P2":8,
+	"good_P3":9,
+	"good_P4":16,
+	"ident":"principleSuggest"
+},
+
+{
+	"group":2,
+	"error_P1":2,
+	"error_P2":0,
+	"error_P3":2,
+	"error_P4":2,
+	"good_P1":8,
+	"good_P2":6,
+	"good_P3":8,
+	"good_P4":22,
+	"ident":"nearestContinent"
+},
+
+{
+	"group":2,
+	"error_P1":2,
+	"error_P2":5,
+	"error_P3":4,
+	"error_P4":2,
+	"good_P1":6,
+	"good_P2":12,
+	"good_P3":4,
+	"good_P4":22,
+	"ident":"oldestSource"
+},
+
+{
+	"group":2,
+	"error_P1":0,
+	"error_P2":1,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":14,
+	"good_P2":20,
+	"good_P3":4,
+	"good_P4":19,
+	"ident":"spendDance"
+},
+
+{
+	"group":2,
+	"error_P1":3,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":6,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"grassEverything"
+},
+
+{
+	"group":2,
+	"error_P1":0,
+	"error_P2":3,
+	"error_P3":0,
+	"error_P4":1,
+	"good_P1":9,
+	"good_P2":4,
+	"good_P3":13,
+	"good_P4":21,
+	"ident":"landOur"
+},
+
+{
+	"group":2,
+	"error_P1":4,
+	"error_P2":3,
+	"error_P3":5,
+	"error_P4":3,
+	"good_P1":7,
+	"good_P2":9,
+	"good_P3":8,
+	"good_P4":13,
+	"ident":"graduallyFriend"
+},
+
+{
+	"group":2,
+	"error_P1":1,
+	"error_P2":4,
+	"error_P3":5,
+	"error_P4":6,
+	"good_P1":13,
+	"good_P2":2,
+	"good_P3":5,
+	"good_P4":12,
+	"ident":"suddenlyPrevious"
+},
+
+{
+	"group":2,
+	"error_P1":1,
+	"error_P2":2,
+	"error_P3":8,
+	"error_P4":3,
+	"good_P1":20,
+	"good_P2":16,
+	"good_P3":10,
+	"good_P4":50,
+	"ident":"intoBecause"
+},
+
+{
+	"group":2,
+	"error_P1":2,
+	"error_P2":2,
+	"error_P3":4,
+	"error_P4":7,
+	"good_P1":5,
+	"good_P2":2,
+	"good_P3":1,
+	"good_P4":7,
+	"ident":"tellAdditional"
+},
+
+{
+	"group":2,
+	"error_P1":0,
+	"error_P2":5,
+	"error_P3":1,
+	"error_P4":3,
+	"good_P1":8,
+	"good_P2":1,
+	"good_P3":4,
+	"good_P4":2,
+	"ident":"flagShells"
+},
+
+{
+	"group":2,
+	"error_P1":2,
+	"error_P2":8,
+	"error_P3":0,
+	"error_P4":1,
+	"good_P1":8,
+	"good_P2":6,
+	"good_P3":6,
+	"good_P4":6,
+	"ident":"shelfInvented"
+},
+
+{
+	"group":2,
+	"error_P1":2,
+	"error_P2":4,
+	"error_P3":3,
+	"error_P4":4,
+	"good_P1":5,
+	"good_P2":9,
+	"good_P3":3,
+	"good_P4":13,
+	"ident":"powerfulLater"
+},
+
+{
+	"group":2,
+	"error_P1":2,
+	"error_P2":5,
+	"error_P3":6,
+	"error_P4":17,
+	"good_P1":1,
+	"good_P2":1,
+	"good_P3":3,
+	"good_P4":7,
+	"ident":"staredEverything"
+},
+
+{
+	"group":2,
+	"error_P1":3,
+	"error_P2":7,
+	"error_P3":6,
+	"error_P4":7,
+	"good_P1":29,
+	"good_P2":25,
+	"good_P3":20,
+	"good_P4":27,
+	"ident":"dailyNothing"
+},
+
+{
+	"group":2,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"mightDrive"
+},
+
+{
+	"group":2,
+	"error_P1":6,
+	"error_P2":9,
+	"error_P3":11,
+	"error_P4":12,
+	"good_P1":13,
+	"good_P2":12,
+	"good_P3":8,
+	"good_P4":23,
+	"ident":"heldCorrect"
+},
+
+{
+	"group":2,
+	"error_P1":6,
+	"error_P2":8,
+	"error_P3":11,
+	"error_P4":17,
+	"good_P1":27,
+	"good_P2":46,
+	"good_P3":39,
+	"good_P4":105,
+	"ident":"requirePlanning"
+},
+
+{
+	"group":2,
+	"error_P1":4,
+	"error_P2":3,
+	"error_P3":5,
+	"error_P4":7,
+	"good_P1":12,
+	"good_P2":16,
+	"good_P3":22,
+	"good_P4":44,
+	"ident":"whileThread"
+},
+
+{
+	"group":2,
+	"error_P1":0,
+	"error_P2":5,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":2,
+	"ident":"opportunityFurniture"
+},
+
+{
+	"group":1,
+	"error_P1":6,
+	"error_P2":9,
+	"error_P3":0,
+	"error_P4":9,
+	"good_P1":4,
+	"good_P2":3,
+	"good_P3":2,
+	"good_P4":16,
+	"ident":"terriblePlan"
+},
+
+{
+	"group":1,
+	"error_P1":6,
+	"error_P2":9,
+	"error_P3":0,
+	"error_P4":9,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"makeImpossible"
+},
+
+{
+	"group":1,
+	"error_P1":1,
+	"error_P2":3,
+	"error_P3":1,
+	"error_P4":1,
+	"good_P1":12,
+	"good_P2":6,
+	"good_P3":7,
+	"good_P4":10,
+	"ident":"aroundThing"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":1,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":1,
+	"ident":"growthDepend"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":1,
+	"error_P4":2,
+	"good_P1":4,
+	"good_P2":3,
+	"good_P3":3,
+	"good_P4":9,
+	"ident":"closerLoss"
+},
+
+{
+	"group":1,
+	"error_P1":1,
+	"error_P2":0,
+	"error_P3":3,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":3,
+	"ident":"pleasureIs"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":4,
+	"good_P2":4,
+	"good_P3":1,
+	"good_P4":0,
+	"ident":"waterThrow"
+},
+
+{
+	"group":1,
+	"error_P1":1,
+	"error_P2":2,
+	"error_P3":5,
+	"error_P4":2,
+	"good_P1":9,
+	"good_P2":9,
+	"good_P3":7,
+	"good_P4":15,
+	"ident":"everybodySale"
+},
+
+{
+	"group":1,
+	"error_P1":1,
+	"error_P2":2,
+	"error_P3":2,
+	"error_P4":1,
+	"good_P1":1,
+	"good_P2":0,
+	"good_P3":1,
+	"good_P4":0,
+	"ident":"ruleKept"
+},
+
+{
+	"group":1,
+	"error_P1":2,
+	"error_P2":1,
+	"error_P3":3,
+	"error_P4":3,
+	"good_P1":4,
+	"good_P2":6,
+	"good_P3":4,
+	"good_P4":27,
+	"ident":"lifeHello"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":4,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":1,
+	"good_P2":1,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"beatMarket"
+},
+
+{
+	"group":1,
+	"error_P1":1,
+	"error_P2":2,
+	"error_P3":0,
+	"error_P4":1,
+	"good_P1":7,
+	"good_P2":8,
+	"good_P3":3,
+	"good_P4":10,
+	"ident":"ableOil"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":2,
+	"error_P3":4,
+	"error_P4":7,
+	"good_P1":7,
+	"good_P2":3,
+	"good_P3":4,
+	"good_P4":8,
+	"ident":"forgetWing"
+},
+
+{
+	"group":1,
+	"error_P1":1,
+	"error_P2":1,
+	"error_P3":5,
+	"error_P4":2,
+	"good_P1":10,
+	"good_P2":4,
+	"good_P3":5,
+	"good_P4":15,
+	"ident":"aloudMemory"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":2,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":2,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"classroomVillage"
+},
+
+{
+	"group":1,
+	"error_P1":1,
+	"error_P2":4,
+	"error_P3":2,
+	"error_P4":0,
+	"good_P1":8,
+	"good_P2":5,
+	"good_P3":3,
+	"good_P4":0,
+	"ident":"runScientific"
+},
+
+{
+	"group":1,
+	"error_P1":5,
+	"error_P2":11,
+	"error_P3":6,
+	"error_P4":21,
+	"good_P1":10,
+	"good_P2":21,
+	"good_P3":9,
+	"good_P4":53,
+	"ident":"readSoon"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":1,
+	"error_P3":5,
+	"error_P4":1,
+	"good_P1":13,
+	"good_P2":12,
+	"good_P3":10,
+	"good_P4":18,
+	"ident":"planningBranch"
+},
+
+{
+	"group":1,
+	"error_P1":2,
+	"error_P2":3,
+	"error_P3":4,
+	"error_P4":4,
+	"good_P1":13,
+	"good_P2":11,
+	"good_P3":11,
+	"good_P4":28,
+	"ident":"yesHat"
+},
+
+{
+	"group":2,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":5,
+	"error_P4":0,
+	"good_P1":11,
+	"good_P2":0,
+	"good_P3":9,
+	"good_P4":12,
+	"ident":"brassBlack"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"surroundedSatisfied"
+},
+
+{
+	"group":1,
+	"error_P1":1,
+	"error_P2":0,
+	"error_P3":2,
+	"error_P4":0,
+	"good_P1":12,
+	"good_P2":10,
+	"good_P3":33,
+	"good_P4":0,
+	"ident":"atmospherePaid"
+},
+
+{
+	"group":1,
+	"error_P1":4,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":6,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"petFirst"
+},
+
+{
+	"group":1,
+	"error_P1":4,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":1,
+	"good_P2":1,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"roomMile"
+},
+
+{
+	"group":2,
+	"error_P1":4,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"stockSummer"
+},
+
+{
+	"group":2,
+	"error_P1":0,
+	"error_P2":1,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"importanceCompletely"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":2,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"bankLoud"
+},
+
+{
+	"group":2,
+	"error_P1":2,
+	"error_P2":10,
+	"error_P3":4,
+	"error_P4":16,
+	"good_P1":12,
+	"good_P2":13,
+	"good_P3":16,
+	"good_P4":43,
+	"ident":"planeBread"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":2,
+	"good_P1":4,
+	"good_P2":4,
+	"good_P3":4,
+	"good_P4":6,
+	"ident":"pathEnter"
+},
+
+{
+	"group":2,
+	"error_P1":5,
+	"error_P2":7,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":12,
+	"good_P2":8,
+	"good_P3":6,
+	"good_P4":3,
+	"ident":"cameTelephone"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":8,
+	"error_P3":8,
+	"error_P4":10,
+	"good_P1":7,
+	"good_P2":7,
+	"good_P3":8,
+	"good_P4":19,
+	"ident":"hurrySoftly"
+},
+
+{
+	"group":1,
+	"error_P1":1,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":8,
+	"good_P2":11,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"habitStudied"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":4,
+	"error_P3":4,
+	"error_P4":3,
+	"good_P1":12,
+	"good_P2":6,
+	"good_P3":8,
+	"good_P4":33,
+	"ident":"oldAnother"
+},
+
+{
+	"group":1,
+	"error_P1":1,
+	"error_P2":1,
+	"error_P3":5,
+	"error_P4":5,
+	"good_P1":9,
+	"good_P2":7,
+	"good_P3":7,
+	"good_P4":19,
+	"ident":"greaterClothes"
+},
+
+{
+	"group":1,
+	"error_P1":2,
+	"error_P2":3,
+	"error_P3":1,
+	"error_P4":2,
+	"good_P1":11,
+	"good_P2":6,
+	"good_P3":4,
+	"good_P4":7,
+	"ident":"higherWrote"
+},
+
+{
+	"group":1,
+	"error_P1":2,
+	"error_P2":3,
+	"error_P3":1,
+	"error_P4":2,
+	"good_P1":0,
+	"good_P2":1,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"enterLift"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":4,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":3,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"feedPictured"
+},
+
+{
+	"group":2,
+	"error_P1":0,
+	"error_P2":2,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":3,
+	"good_P3":3,
+	"good_P4":12,
+	"ident":"cookiesRefused"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":2,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":1,
+	"good_P3":0,
+	"good_P4":2,
+	"ident":"simpleFinest"
+},
+
+{
+	"group":2,
+	"error_P1":0,
+	"error_P2":3,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":3,
+	"good_P3":1,
+	"good_P4":10,
+	"ident":"madForce"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":2,
+	"error_P3":0,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":7,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"spiderAm"
+},
+
+{
+	"group":2,
+	"error_P1":0,
+	"error_P2":4,
+	"error_P3":9,
+	"error_P4":2,
+	"good_P1":0,
+	"good_P2":8,
+	"good_P3":3,
+	"good_P4":18,
+	"ident":"verticalExcited"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":8,
+	"error_P4":0,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":7,
+	"good_P4":0,
+	"ident":"unhappyYesterday"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":2,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":4,
+	"good_P4":10,
+	"ident":"questionTail"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":5,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":25,
+	"good_P4":32,
+	"ident":"winterPractical"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":5,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":1,
+	"ident":"begunFastened"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":4,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":18,
+	"ident":"gotFloating"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":4,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":15,
+	"ident":"dependEnemy"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":7,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":13,
+	"ident":"establishIce"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":1,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":0,
+	"ident":"paragraphBiggest"
+},
+
+{
+	"group":1,
+	"error_P1":0,
+	"error_P2":0,
+	"error_P3":0,
+	"error_P4":4,
+	"good_P1":0,
+	"good_P2":0,
+	"good_P3":0,
+	"good_P4":9,
+	"ident":"nothingMain"
+},
+
+]
